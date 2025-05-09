@@ -1,4 +1,4 @@
-package ec.ups.edu.poo.ventanas;
+package ec.ups.edu.poo.ventanas.acciones;
 
 import java.awt.Frame;
 import java.awt.Button;
